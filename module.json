@@ -4,5 +4,7 @@
     "description": "A module implementing Starfinder's Alien Archive NPC generation tables.",
     "author": "ian612",
     "version": "0.0.1",
-    "minimumCoreVersion": "9"
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "system": ["sfrpg"]
   }
