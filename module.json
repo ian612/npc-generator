@@ -1,0 +1,8 @@
+{
+    "name": "npc-generator",
+    "title": "Starfinder NPC Generator",
+    "description": "A module implementing Starfinder's Alien Archive NPC generation tables.",
+    "author": "ian612",
+    "version": "0.0.1",
+    "minimumCoreVersion": "9"
+  }
