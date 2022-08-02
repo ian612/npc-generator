@@ -1,0 +1,1 @@
+console.log('npc-generator | Hello World!')
