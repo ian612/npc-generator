@@ -2,10 +2,18 @@
     "name": "npc-generator",
     "title": "Starfinder NPC Generator",
     "description": "A module implementing Starfinder's Alien Archive NPC generation tables.",
-    "author": "ian612",
+    "authors": [
+      {
+      "name": "ian612",
+      "discord": "Graham_Negative#9479"
+      }
+    ],
     "version": "0.0.2",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
+    "compatibility": {
+      "minimum": 10,
+      "verified": 10.285,
+      "maximum": 10
+      },
     "system": ["sfrpg"],
     "languages": [
       {
